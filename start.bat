@@ -2,11 +2,11 @@
 
 if not exist git (
     mkdir git
-    tar -C git -zxvf git.zip
+    tar -C git -zxf git.zip
 )
 if not exist jre (
     mkdir jre
-    tar -C jre -zxvf jre.zip
+    tar -C jre -zxf jre.zip
 )
 
 git fetch --all
