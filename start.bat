@@ -13,3 +13,5 @@ git fetch --all
 git reset --hard origin/main
 
 jre\bin\java -Xmx8g -Xms8g -jar paper-1.19.3-448.jar nogui
+
+exit
