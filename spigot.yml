@@ -72,7 +72,7 @@ world-settings:
     view-distance: default
     simulation-distance: default
     mob-spawn-range: 8
-    item-despawn-rate: 6000
+    item-despawn-rate: 1728000
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
     nerf-spawner-mobs: false
